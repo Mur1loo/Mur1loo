@@ -12,6 +12,18 @@ A passionate enthusiast in visual arts and mathematical logic
     </p>
     <br />
 </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Languages and tools I frequently utilize:
 <p align="left">
