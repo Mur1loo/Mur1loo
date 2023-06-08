@@ -7,7 +7,7 @@ A passionate enthusiast in visual arts and mathematical logic
 
 <div>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mur1looi&show_icons=true&locale=en" alt="Mur1loo" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mur1loo&show_icons=true&locale=en" alt="Mur1loo" />
     </p>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mur1loo&show_icons=true&locale=en&layout=compact" alt="Mur1loo" />
