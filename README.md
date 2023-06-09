@@ -25,7 +25,7 @@ A passionate enthusiast in visual arts and mathematical logic
 <br />
 
 
-## Languages and tools I frequently utilize:
+## some of languages and tools I frequently utilize:
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/c.svg" alt="C" width="40" height="40" /> 
