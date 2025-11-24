@@ -1,62 +1,54 @@
-## Hi There👋
-### I'm Severino Murilo
+<div align="center">
+  <h1>Olá, eu sou Murilo! 👋</h1>
 
-A passionate enthusiast in visual arts and mathematical logic
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Engineering;Operating+Systems+Enthusiast;Low-level+Programming" alt="Typing SVG" />
+  </a>
 
-<div>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mur1loo&show_icons=true&locale=en" alt="Mur1loo" />
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mur1loo&show_icons=true&locale=en&layout=compact" alt="Mur1loo" />
-    </p>
-    <br />
-</div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+  <p align="center">
+    <em>"Buscando a eficiência através do entendimento profundo de sistemas e arquitetura de software."</em>
+  </p>
 
-
-## some of languages and tools I frequently utilize:
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/c.svg" alt="C" width="40" height="40" /> 
-    </a> 
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/cplusplus.svg" alt="C++" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/pandas.svg" alt="Pandas" width="80" height="40" /> 
-    </a> 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/r.svg" alt="R" width="50" height="40" /> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
+  <p>
+    <a href="https://www.linkedin.com/in/murilo-silva-a25326340/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/git.svg" alt="Git" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
-        <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
-    </a> 
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/jupyter.png" alt="Jupyter" width="40" height="45" /> 
-    </a> 
-</p>
+    <a href="mailto:murilo.silva.sms6@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
+
+---
+
+### 💻 Sobre Mim
+
+Sou estudante de **Ciência da Computação** com foco no desenvolvimento de soluções robustas e escaláveis. Meu interesse principal é entender como o software interage com o hardware, o gerenciamento de memória, processos e a arquitetura de sistemas complexos.
+
+- 🔭 Atualmente estudando: **Kernel development e Sistemas Distribuídos**
+- ⚙️ Foco: **Engenharia de Software, Backend e Otimização**
+- 🐧 Entusiasta de: **Linux e Open Source**
+
+---
+
+### 🛠 Arsenal Tecnológico
+
+#### Ferramentas & Infraestrutura
+<div style="display: inline_block">
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Kafka" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img align="center" alt="Vim" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+---
+
+### ⚡ Estatísticas
+
+<div align="center">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Mur1loo&show_icons=true&locale=en" alt="Mur1loo Stats" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mur1loo&show_icons=true&locale=en&layout=compact" alt="Mur1loo Langs" />
+</div>
