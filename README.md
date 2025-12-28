@@ -47,7 +47,7 @@ Sou estudante de **Ciência da Computação** com foco no desenvolvimento de sol
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mur1loo&theme=radical" alt="Profile Details" />
@@ -60,18 +60,6 @@ Sou estudante de **Ciência da Computação** com foco no desenvolvimento de sol
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mur1loo&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mur1loo&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mur1loo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
